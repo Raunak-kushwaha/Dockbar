@@ -114,3 +114,5 @@ Found a bug or have an idea? [Open an issue](https://github.com/Raunak-kushwaha/
 
 Dockbar is free to download and use, but it isn't open source: the code and design are the property of
 Raunak Kushwaha, and copying, modifying or redistributing them isn't permitted. See [LICENSE](LICENSE).
+
+Dockbar collects no data. See the [privacy policy](PRIVACY.md).
